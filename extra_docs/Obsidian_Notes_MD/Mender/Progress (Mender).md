@@ -1,0 +1,10 @@
+- [x] Install mender server
+- [x] Install Mender client
+- [x] connect client to server
+- [x] successfully deploy an artifact
+- [ ] Develop and test an artifact for USRP UHD drivers for host
+- [ ] Develop and test an artifact for USRP UHD Filesystem upgrade
+- [ ] Create ARA mender server instance
+- [ ] Install Mender on all clients (split by device type)
+- [ ] connect all clients to mender server
+- [ ] Update clients as needed.

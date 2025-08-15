@@ -1,0 +1,10 @@
+- [x] Get srsRAN Gpio Pins to toggle (B210)
+- [x] Get Pin toggle to line up with frame (B210)
+- [x] Test latching with Patch (B210)
+- [x] Test with Amplifier (B210)
+- [x] Verify running on server (B210)
+- [x] Verify runs on N320
+- [x] Test latching with patch (N320)
+- [x] Test latching with amplifier (N320)
+- [ ] Reserve resources and test deployment on ARA network
+- [ ] Update to newer release (?)

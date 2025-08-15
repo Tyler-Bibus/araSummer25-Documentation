@@ -1,0 +1,1 @@
+Upgrade N320 SDRs to 4.7.0 using mender(?)
